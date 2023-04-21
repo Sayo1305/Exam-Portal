@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+# icons (atrribution / credit)
+
+<a href="https://www.flaticon.com/free-icons/exam" title="exam icons">Exam icons created by kliwir art - Flaticon</a>
+<br>
 ## Getting Started
 
 First, run the development server:
